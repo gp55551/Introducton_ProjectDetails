@@ -1,0 +1,104 @@
+
+for any new project we need, 
+POM + Data driven framework + testng
+
+POM - 
+Login page 
+Home page
+Registration Page
+Search Page
+Transaction Page
+Checkout page
+
+For each page , we create separate java class.
+For 100 pages we ll create 100 classess
+
+com.qa.pages
+Page Lib - all pages classes - methods and objects(OR):
+ called from OR class
+LoginPage
+HomePage
+
+com.qa.tests
+TestLayer - all scripts classess:
+LoginTest.java
+HomeTest.java
+
+include TestNG annotation
+
+com.qa.base
+Parent Class:
+There will be a test base class from which the main execution ll start
+All Page lib and tests ll be inherited from base
+will have,
+Driver intiate
+properties
+wait
+delete cookies
+pageloadtime
+get(url)
+
+this will be used for every test execution so bettter to 
+vreate a common function 
+and acccess it from parent
+
+com.qa.config
+config.properties:
+url
+username
+pssword
+browser
+this sets environments where to run the tests
+
+com.qa.testData
+Testdata.xls:
+here we maintain the data reuqired for the tests
+
+com.qa.util
+TestUtil:
+Takes screenshot
+send mail
+common utility
+generic function
+
+Test-output/reports
+reporting:
+can be HTML testNG XML extent reports
+to see how many test cases passed
+
+Page chaining model is POM
+because there is a chain . all pages are interlinked
+
+
+java - to write code
+Selenium webdriver - test tech
+testNG - to run
+MAven - create build
+POI - to read data from xcel
+extent report from generting reports
+Log4j to generate logs
+Jenkins - CI to trigger build
+Git to maintian code and checkin
+GRID - parralle testing
+Browsers - Chrom/Mozilla
+OS - Windows/MAC/linux
+VMs/SouceLAbs/BrowserStack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+
+
+:: API Testing Interview Question ::
+
+Status code:
+100 series
+200 series
+300 series
+400 series
+500 series
+
+Client server architecture in API Testing
+
+Difference between WADL & WSDL
+
+Difference between SOAP and Rest Service
+
+How Json is better than XML
+
+List down the jar files used for API automation using RestAssured library
+
+Difference between Put, Post,get, update, delete methods
+
+What is CRUD operation
+
+What is POJO classes
+
+Difference between Query parameters and parameters in API Testing
+
+What oauth2.0 Authentication
+
+How to fetch one attribute value from one API response and provide it as a request parameter for one input request of another API
+
+Code for get,Post,put, delete method
+
+Difference between get and Post method
+
+Why get method doesn't contain any request body but Post method contains request body
+
+What are the parameters we usually validate in Response header in a API Respone
+
+What are the different type of Assertions
+
+What is the content-type of a Json file in API response
+
+what is JSONPATH and XMLPATh
+
+how to convert raw data to xml
+
+how to convert raw data to Json
+
+What is serialization and deserialization in API Testing
+
+Why Authentication is required in API Testing
+
+What is these below status code stands for
+200, 201,301,404,500,100
+
+How to  traverse to a particular element in a Json file
+
+What is the Purpose of API Testing
+
+How to  traverse to a particular element in a xml file

@@ -1,0 +1,44 @@
+
+
+git lab credentials: 
+patnaikgaurav61@gmail.com/sankunu@123
+
+git hub
+gp55551/sankunu@123
+
+
+whenever a binding of static, private and final methods happen, 
+type of the class is determined by the compiler at compile time and the binding happens then and there.
+
+
+Command line instructions
+You can also upload existing files from your computer using the instructions below.
+
+
+Git global setup
+git config --global user.name "Gaurav Patnaik"
+git config --global user.email "patnaikgaurav61@gmail.com"
+
+Create a new repository
+git clone https://gitlab.com/gp55551/selenium.git
+cd selenium
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+
+Push an existing folder
+cd existing_folder
+git init
+git remote add origin https://gitlab.com/gp55551/selenium.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+
+Push an existing Git repository
+cd existing_repo
+git remote rename origin old-origin
+git remote add origin https://gitlab.com/gp55551/selenium.git
+git push -u origin --all
+git push -u origin --tags
+
