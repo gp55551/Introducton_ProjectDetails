@@ -1,0 +1,81 @@
+
+
+------------------------------------------------------------------------------------------------------------
+--------------------- TEST LEAD - HR QUESTIONS ------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+TEST LEAD - MAJOR RESPONSIBILITIES -
+
+- responsible for setting the roadmap for completing the testing of the project.
+
+- identify scope and test pan and get ti approved by manager or dev team.
+
+- identify testing effort required to complete the task of each sprint
+
+- identify tools required for test reporting , test framework, test management and educate 
+the team on how to use the tools.
+
+- perform knowledge transfer sessions to make sure all the resources all aware of the tools and domain
+
+- monitoring test progress by constantly verifying the work assigned to each resources.
+
+- check if there might be any delay in achieving the task completed and hold meetings with testers to figure out 
+issues that is faced and strive hard to resolve them.
+
+- present the daily status and weekly status to the stakeholders 
+
+- staying open to feedback for any changes if its a valid one 
+
+eg -Sometimes, when team members came up with ideas, which I found were good but could be better, 
+I had to stop myself. I had to convince myself that the target is quality work and how you get there doesn’t matter.
+
+-Ability to say ‘no’ to other leads / managers when quality is insufficient or QA processes are not being adhered. 
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+TEST LEAD - daily routines-
+
+- review the test scripts prepared by team and addres the tea mfor any changes..
+
+- tracking the requirements and modify the testing artfacts accordingly
+
+- make sure test environment is avialable and working correctly, giving access to only authorised user for instance 
+
+- manange the test management system 
+
+- track each task assigned and resolve isseu if any , reassign the testing tasks as required.
+
+- ensure each team menmeber is occupied optimally.
+
+- make sure team logs the bug reports and review to make sure it is logged correctly. assign to correct developers.
+
+
+------------------------------------------------------------------------------------------------------------
+
+how can TEST LEAD motivate team - 
+
+- be approchaeable and availabe to testers . 
+
+- plan , organise team meeting and make sure tester express their issues and make sure action is taken
+
+- review the status reports of the testers 
+
+
+------------------------------------------------------------------------------------------------------------
+
+TL - how to Imporve our own skills - 
+
+- learn latest testing techniques, strategies, testing tools , testing frameworks, etc
+
+- be aware of the current and upcoming projects in the organisation.
+
+- manage time to contribute more and more . 
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+

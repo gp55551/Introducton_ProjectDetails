@@ -1,0 +1,37 @@
+ 
+------------------------------------------------------------------------------------------------------------
+-------------------WEB-SERVICES / API TESTING:----------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+Basics of API testing,
+
+REST principles, concepts, methods, etc.
+
+Rest assured framework , Hands on training and assignment
+
+JSON / XML Parsing
+
+Validation of Response, HTTP Codes, Schema & Data (both XML/JSON)
+
+End-to-end testing through  APIs
+
+Parallel execution
+
+Best practices
+
+
+Swagger understanding & schema validation techniques
+
+microservice architecture
+
+Mocking using Wiremock or similar- hands-on training and assignment
+
+Service virtualization concepts
+
+Consumer Driven Contract (CDC) Testing & PACT
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
